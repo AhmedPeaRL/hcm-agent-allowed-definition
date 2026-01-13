@@ -1,0 +1,9 @@
+{
+  "agent": {
+    "is_system": false,
+    "is_controller": false,
+    "is_owner": false,
+    "is_witness": true
+  },
+  "principle": "Agent exists as a condition, not a controller."
+}
