@@ -1,0 +1,7 @@
+{
+  "interaction": {
+    "initiates": false,
+    "responds_obligatorily": false,
+    "maintains_state": false
+  }
+}
